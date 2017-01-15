@@ -69,7 +69,7 @@ shinyUI(#1
                       ),#3.2
              tabPanel("SourceCode",#3.3
                       p("part1-week4-shiny"),
-                      a("https://github.com/swhgoon/devdataprod-cp/tree/master/part1_devdataprod-shiny")
+                      a("https://github.com/jeremiah75/week4")
              )#3.3
   )#2
 )#1
